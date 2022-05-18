@@ -5,7 +5,7 @@ This project contain the most minimal python flask application that build with d
 
 ## Dependency
 ```
-python3.8
+python 3.8
 flask 2.1.2
 ```
 
