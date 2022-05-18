@@ -1,0 +1,5 @@
+services:
+  default-python-flask:
+   image: puttimeth/default-python-flask
+   ports:
+     - "5000:5000"
